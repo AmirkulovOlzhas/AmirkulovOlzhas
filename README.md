@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AmirkulovOlzhas)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirkulovOlzhas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirkulovOlzhas)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmirkulovOlzhas&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmirkulovOlzhas&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmirkulovOlzhas&theme=solarized_dark)
