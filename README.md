@@ -31,6 +31,9 @@
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+
+![](https://komarev.com/ghpvc/?username=AmirkulovOlzhas)
 <!--
 ![](https://komarev.com/ghpvc/?username=AmirkulovOlzhas)
 
